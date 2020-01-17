@@ -1,1 +1,1 @@
-Some initial text for chapter 2. cool.
+Some initial text for chapter 2. cool. and then some changes to demonstrate branching and merging
